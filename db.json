@@ -1,0 +1,133 @@
+{
+	"campaigns": [
+		{
+			"id": 1,
+			"leads": {
+				"added":[1,2,3,4,5],
+				"reached":[1,3]
+			}, 
+			"title": "InterSpeech 2018 Inbound Leads",
+			"date":{
+				"create": "2018-04-23T18:25:43.511Z",
+				"modify": "2018-04-30T20:25:43.511Z",
+				"publish": "2018-04-24T15:25:43.511Z"
+			},
+			"status":"running"
+		},
+		{
+			"id": 2,
+			"leads": {
+				"added":[1,3],
+				"reached":[3]
+			}, 
+			"title": "InterSpeech 2018 Shortlisted",
+			"date":{
+				"create": "2018-04-28T18:25:43.511Z",
+				"modify": "2018-04-29T20:25:43.511Z",
+				"publish": "2018-04-28T19:25:43.511Z"
+			},
+			"status":"completed"
+		},
+		{
+			"id": 3,
+			"leads": {
+				"added":[6, 7, 8],
+				"reached":[7, 8]
+			}, 
+			"title": "AAAI 2019 Sponsors",
+			"date":{
+				"create": "2018-06-23T18:25:43.511Z",
+				"modify": "2018-07-30T20:25:43.511Z",
+				"publish": "2018-06-26T15:25:43.511Z"
+			},
+			"status":"paused"
+		},
+		{
+			"id": 4,
+			"leads": {
+				"added":[2,4,5],
+				"reached":[]
+			}, 
+			"title": "Follow-Up InterSpeech 2018 Leads",
+			"date":{
+				"create": "2018-06-23T18:25:43.511Z",
+				"modify": "2018-06-30T20:25:43.511Z",
+				"publish": ""
+			},
+			"status":"draft"
+		}
+	],
+
+	"leads": [
+		{
+			"id": 1,
+			"name": "Leanne Graham",
+			"email": "Sincere@april.biz",
+			"company": "Romaguera-Crona",
+			"phone":"1-770-736-8031 x56442",
+		},
+		{
+			"id": 2,
+			"name": "Ervin Howell",
+			"email": "Shanna@melissa.tv",
+			"phone": "010-692-6593 x09125",
+			"company": "Deckow-Crist"
+		},
+		{
+			"id": 3,
+			"name": "Clementine Bauch",
+			"email": "Nathan@yesenia.net",
+			"phone": "1-463-123-4447",
+			"company":"Romaguera-Jacobson"
+		},
+		{
+			"id": 4,
+			"name": "Patricia Lebsack",
+			"email": "Julianne.OConner@kory.org",
+			"phone": "493-170-9623 x156",
+			"company": "name": "Robel-Corkery"
+		},
+		{
+			"id": 5,
+			"name": "Chelsey Dietrich",
+			"email": "Lucio_Hettinger@annie.ca",
+			"phone": "(254)954-1289",
+			"company": "name": "Keebler LLC"
+		},
+		{
+			"id": 6,
+			"name": "Mrs. Dennis Schulist",
+			"email": "Karley_Dach@jasper.info",
+			"phone": "1-477-935-8478 x6430",
+			"company": "Considine-Lockman"
+		},
+		{
+			"id": 7,
+			"name": "Kurtis Weissnat",
+			"email": "Telly.Hoeger@billy.biz",
+			"phone": "210.067.6132",
+			"company": "Johns Group"
+		},
+		{
+			"id": 8,
+			"name": "Nicholas Runolfsdottir V",
+			"email": "Sherwood@rosamond.me",
+			"phone": "586.493.6943 x140",
+			"company":"Abernathy Group"
+		},
+		{
+			"id": 9,
+			"name": "Glenna Reichert",
+			"email": "Chaim_McDermott@dana.io",
+			"phone": "(775)976-6794 x41206",
+			"company": "Yost and Sons"
+		},
+		{
+			"id": 10,
+			"name": "Clementina DuBuque",
+			"email": "Rey.Padberg@karina.biz",
+			"phone": "024-648-3804",
+			"company": "Hoeger LLC"
+		}
+	]
+}
