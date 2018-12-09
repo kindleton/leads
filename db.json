@@ -14,7 +14,7 @@
 			},
 			"msg": {
 				"subject":"InterSpeech 2018 -  Following-Up",
-				"body":"<strong>Hello from RM Textiles.</strong><br/> <p> It was so nice to meeting you at InterSpeech 2018."
+				"body":"<p><strong>Hello from RM Textiles.</strong><br/>  It was so nice to meeting you at InterSpeech 2018.</p>"
 			},
 			"status":"Running"
 		},
@@ -32,7 +32,7 @@
 			},
 			"msg": {
 				"subject":"Meetup at Mumbai",
-				"body":"<strong>Hello from RM Textiles.</strong><br/> <p> Thanks for following up with us after InterSpeech 2018. Excited to meet you in person. <p> See you in Mumbai!"
+				"body":"<p><strong>Hello from RM Textiles.</strong> <br/>  Thanks for following up with us after InterSpeech 2018. Excited to meet you in person.  See you in Mumbai!</p>"
 			},
 
 			"status":"Completed"
@@ -51,7 +51,7 @@
 			},
 			"msg": {
 				"subject":"Sponsor AAAI 2019",
-				"body":"<strong>Hello from RM Textiles.</strong> <p> We would like to be Gold Sponsor for AAAI 2019. Please guide us with the process."
+				"body":"<p><strong>Hello from RM Textiles.</strong>  We would like to be Gold Sponsor for AAAI 2019. Please guide us with the process.</p>"
 			},
 
 			"status":"Paused"
@@ -70,7 +70,7 @@
 			},
 			"msg": {
 				"subject":"InterSpeech 2018 -  Following-Up",
-				"body":"<strong>Hello from RM Textiles.</strong><br/> <p> It was so nice to meeting you at InterSpeech 2018. Let's talk and se if we can synergise on future endeavours."
+				"body":"<p><strong>Hello from RM Textiles.</strong><br/>  It was so nice to meeting you at InterSpeech 2018. Let's talk and se if we can synergise on future endeavours.</p>"
 			},
 
 			"status":"Draft"
