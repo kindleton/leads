@@ -12,7 +12,11 @@
 				"modify": "2018-04-30T20:25:43.511Z",
 				"publish": "2018-04-24T15:25:43.511Z"
 			},
-			"status":"running"
+			"msg": {
+				"subject":"InterSpeech 2018 -  Following-Up",
+				"body":"<strong>Hello from RM Textiles.</strong><br/> <p> It was so nice to meeting you at InterSpeech 2018."
+			},
+			"status":"Running"
 		},
 		{
 			"id": 2,
@@ -26,7 +30,12 @@
 				"modify": "2018-04-29T20:25:43.511Z",
 				"publish": "2018-04-28T19:25:43.511Z"
 			},
-			"status":"completed"
+			"msg": {
+				"subject":"Meetup at Mumbai",
+				"body":"<strong>Hello from RM Textiles.</strong><br/> <p> Thanks for following up with us after InterSpeech 2018. Excited to meet you in person. <p> See you in Mumbai!"
+			},
+
+			"status":"Completed"
 		},
 		{
 			"id": 3,
@@ -40,7 +49,12 @@
 				"modify": "2018-07-30T20:25:43.511Z",
 				"publish": "2018-06-26T15:25:43.511Z"
 			},
-			"status":"paused"
+			"msg": {
+				"subject":"Sponsor AAAI 2019",
+				"body":"<strong>Hello from RM Textiles.</strong> <p> We would like to be Gold Sponsor for AAAI 2019. Please guide us with the process."
+			},
+
+			"status":"Paused"
 		},
 		{
 			"id": 4,
@@ -54,7 +68,12 @@
 				"modify": "2018-06-30T20:25:43.511Z",
 				"publish": ""
 			},
-			"status":"draft"
+			"msg": {
+				"subject":"InterSpeech 2018 -  Following-Up",
+				"body":"<strong>Hello from RM Textiles.</strong><br/> <p> It was so nice to meeting you at InterSpeech 2018. Let's talk and se if we can synergise on future endeavours."
+			},
+
+			"status":"Draft"
 		}
 	],
 
@@ -129,5 +148,5 @@
 			"phone": "024-648-3804",
 			"company": "Hoeger LLC"
 		}
-	]
+	]	
 }
